@@ -6,6 +6,9 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
+
+* [basic-express-server](https://github.com/sarabahrini/basic-express-server)
+* [react-App](https://github.com/sarabahrini/react-app)
 * [repo](http://xyz.com)
 * [deployed site](http://xyz.com)
 
